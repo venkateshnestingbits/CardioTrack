@@ -6,12 +6,10 @@ sneha
 shyamala
 Suma
 preethi
+uma
 Archana
 Hema
 Sudiksha
-<<<<<<< HEAD
 bhavya
-=======
 chandrika
->>>>>>> origin/master
-Shreya
+Thanuja
