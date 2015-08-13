@@ -6,5 +6,17 @@ sneha
 shyamala
 Suma
 preethi
-Archana
 uma
+Archana
+<<<<<<< HEAD
+uma
+=======
+Hema
+Sudiksha
+bhavya
+chandrika
+Thanuja
+aruna
+Ramya
+>>>>>>> origin/master
+Divya
